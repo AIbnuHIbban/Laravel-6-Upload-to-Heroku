@@ -1,4 +1,4 @@
-# Laravel-6-Upload-to-Heroku
+# Laravel 6 Upload to Heroku
 Cara Upload Project Laravel ke Heroku
 
 > **Perhatian !! Cara Ini hanya untuk pengguna Linux**
